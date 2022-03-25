@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @floyedlobo Software Engineer
-- 👀 I’m interested in Cloud computing, Java & Networking
+- 👀 I’m interested in Cloud computing, Java Spring Boot & Networking
 - 🌱 I’m currently ramping up on Golang and Flutter
 
 
