@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @floyedlobo
-- 👀 I’m interested in Cloud computing, Flutter apps, Java & Networking
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m @floyedlobo Software Engineer
+- 👀 I’m interested in Cloud computing, Java & Networking
+- 🌱 I’m currently ramping up on Golang and Flutter
 
 
 
